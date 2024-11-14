@@ -18,13 +18,16 @@
 # Tela Central
 
 # Tela Descritiva
-![Brasao](https://github.com/user-attachments/assets/fef421b9-0f0c-4644-bf2d-8d66ebd27e69)
+![Brasao](![c1940f89-4cff-4c75-a3e9-04086cf714f1](https://github.com/user-attachments/assets/11af1110-5a1f-4731-abd6-3437d09d6b7c)
+https://github.com/user-attachments/assets/29202710-7b7e-427a-9ab0-66a4ac42a549)
+
 # Tela das cartas
 ![Pacote](https://github.com/user-attachments/assets/10ae1ff8-a2b6-491b-bede-5b9c469ff612)
-![Jason1 5](https://github.com/user-attachments/assets/c61b5db2-0912-4759-97a9-69bb13b7c691)
-![MassiveBlack2 5](https://github.com/user-attachments/assets/409f2c19-dbe0-4600-b145-f8b3a8436c39)
-![RiotGames3 5](https://github.com/user-attachments/assets/68681abe-f3a7-4c61-a343-7bff6545910d)
-![Wizards4 5](https://github.com/user-attachments/assets/6dfd8548-6b54-415e-9814-b42a56575e90)
-![Blizzard5 5](https://github.com/user-attachments/assets/ff6f3b6d-19e1-49d6-a1eb-fb1a473b1993)
+![Jason1 5](https://github.com/user-attachments/assets/085f4668-9f99-424e-910c-7c5d03635962)
+![MassiveBlack2 5](https://github.com/user-attachments/assets/ec97358e-2404-49c6-b5d8-7d9a73874c0d)
+![RiotGames3 5](https://github.com/user-attachments/assets/e4df2134-d22d-4f43-b86b-fd83e6fdbdd1)
+![Wizards4 5](https://github.com/user-attachments/assets/6a16d363-6b24-46d7-9a68-4a1cbd88f77c)
+![Blizzard5 5](https://github.com/user-attachments/assets/98960b04-d6c6-465e-99b6-6cddf7bd9102)
+
 
 # Foto Jason Chan
