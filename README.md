@@ -19,7 +19,6 @@
 
 # Tela Descritiva
 ![Brasao](![c1940f89-4cff-4c75-a3e9-04086cf714f1](https://github.com/user-attachments/assets/11af1110-5a1f-4731-abd6-3437d09d6b7c)
-https://github.com/user-attachments/assets/29202710-7b7e-427a-9ab0-66a4ac42a549)
 
 # Tela das cartas
 ![Pacote](https://github.com/user-attachments/assets/10ae1ff8-a2b6-491b-bede-5b9c469ff612)
