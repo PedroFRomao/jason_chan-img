@@ -15,10 +15,9 @@
 ![Post_7](https://github.com/user-attachments/assets/ba37c66b-9aa8-4b55-8226-feaf444b0c49)
 ![Post_8](https://github.com/user-attachments/assets/564f8cf6-be0b-42f3-9caa-94d919052b15)
 ![Post_9](https://github.com/user-attachments/assets/1cb6650a-edeb-42bf-90ab-4737e54f7d5b)
-# Tela Central
 
 # Tela Descritiva
-![Brasao](![c1940f89-4cff-4c75-a3e9-04086cf714f1](https://github.com/user-attachments/assets/11af1110-5a1f-4731-abd6-3437d09d6b7c)
+![Brasao](https://github.com/user-attachments/assets/11af1110-5a1f-4731-abd6-3437d09d6b7c)
 
 # Tela das cartas
 ![Pacote](https://github.com/user-attachments/assets/10ae1ff8-a2b6-491b-bede-5b9c469ff612)
