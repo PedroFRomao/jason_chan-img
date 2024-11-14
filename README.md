@@ -27,6 +27,3 @@
 ![RiotGames3 5](https://github.com/user-attachments/assets/e4df2134-d22d-4f43-b86b-fd83e6fdbdd1)
 ![Wizards4 5](https://github.com/user-attachments/assets/6a16d363-6b24-46d7-9a68-4a1cbd88f77c)
 ![Blizzard5 5](https://github.com/user-attachments/assets/98960b04-d6c6-465e-99b6-6cddf7bd9102)
-
-
-# Foto Jason Chan
