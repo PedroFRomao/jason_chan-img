@@ -1,6 +1,17 @@
 # jason_chan-img
 # Tela de Carregamento
 ![Tela de carregamento](https://github.com/user-attachments/assets/90943f39-5a5e-46bd-ad0f-5ddb831b0e26)
+
+# Tela Home
+![jason-chan-kda-ao-evelynn-mv-concept](https://github.com/user-attachments/assets/e16b92e2-84c9-4590-8aec-7c43045fea0b)
+![jason-chan-kda-ao-akali-mv-concept](https://github.com/user-attachments/assets/cc812ece-f6cc-45a6-bffe-3677be9c2cb7)
+![jason-chan-kda-ao-ahri-mv-concept](https://github.com/user-attachments/assets/5e7a57f9-df81-4012-9292-433e8da4b440)
+![jason-chan-kda-ao-concept-lineup](https://github.com/user-attachments/assets/e3ddb262-1e1c-4327-b7f3-d39b60c743e8)
+![jason-chan-kda-ao-seraphine-mv-concept](https://github.com/user-attachments/assets/26cd5bb1-05a9-4499-a2a7-36384be7e673)
+![jason-chan-kda-ao-kaisa-mv-concept](https://github.com/user-attachments/assets/9be32a5b-b1a2-4493-8d7c-168018363000)
+
+![Jason_Chan](https://github.com/user-attachments/assets/83e5c377-ddf7-43cb-abbc-a9583b8036ba)
+
 # Tela de Biografia
 ![Banner](https://github.com/user-attachments/assets/d0d8881b-6ae1-4119-a0a5-7d5ff37817e2)
 ## Logo
